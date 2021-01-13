@@ -2,3 +2,6 @@ body {
   background-color: white;
   color: navy;
 }
+.comicpage {
+	max-width: 90%;
+}
